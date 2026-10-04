@@ -5,7 +5,7 @@ https://t.me/ehmunnax/16
 
 ## Install Termux x11 
 https://t.me/ehmunnax/18
-
+## Termux Update 
 ```
 apt update -y
 apt upgrade -y
